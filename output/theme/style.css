@@ -1,0 +1,10 @@
+html{
+    margin: 10;
+    border: 0;
+    background-color: wheat;
+  }
+
+  body {
+    font-size: 75%;
+    color: blue;
+  }
