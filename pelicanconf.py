@@ -1,6 +1,6 @@
 AUTHOR = 'Danger Doggo'
 SITENAME = 'My Cool Site'
-SITEURL = 'https://MichaelLsh.github.io/MichaelLsh.github.io'
+SITEURL = 'https://MichaelLsh.github.io'
 
 PATH = 'content'
 
