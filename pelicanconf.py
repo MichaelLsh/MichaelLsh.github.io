@@ -1,6 +1,7 @@
 AUTHOR = 'Danger Doggo'
 SITENAME = 'My Cool Site'
 SITEURL = 'https://MichaelLsh.github.io'
+RELATIVE_URLS = False
 
 PATH = 'content'
 
